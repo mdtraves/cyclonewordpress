@@ -1,0 +1,23 @@
+{
+  "name": "cyclonewordpress",
+  "version": "1.0.0",
+  "description": "cyclone wordpress site with woocommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdtraves/cyclonewordpress.git"
+  },
+  "keywords": [
+    "cyclone",
+    "wp"
+  ],
+  "author": "mike traves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdtraves/cyclonewordpress/issues"
+  },
+  "homepage": "https://github.com/mdtraves/cyclonewordpress#readme"
+}
